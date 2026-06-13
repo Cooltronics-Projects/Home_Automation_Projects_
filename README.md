@@ -1,5 +1,3 @@
-# Home_Automation_Projects
-
 # ESP32 Hand Gesture LED Control using OpenCV & MediaPipe
 
 Control 5 LEDs connected to an ESP32 using real-time hand gestures detected by a webcam. This project uses OpenCV, MediaPipe, and Python to track finger positions and send commands to the ESP32 over USB Serial communication.
